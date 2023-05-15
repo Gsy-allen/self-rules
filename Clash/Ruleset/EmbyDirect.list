@@ -2,7 +2,6 @@
 # 直连的Emby服务器地址
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,embytv.cf
-DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,mulgore.net
