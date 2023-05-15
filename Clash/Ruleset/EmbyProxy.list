@@ -1,6 +1,5 @@
 # Emby Proxy
 # 需要走代理的Emby服务器
-DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,gtlx.org
