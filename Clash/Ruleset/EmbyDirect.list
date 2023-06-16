@@ -1,30 +1,58 @@
 # Emby Direct
 # 直连的Emby服务器地址
+# MisakaF
 DOMAIN-SUFFIX,misakaf.org
+# Orange
 DOMAIN-SUFFIX,embytv.cf
+# 垃圾1服
 DOMAIN-SUFFIX,emby.ml
+# Peach
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,embymv.me
+# 莫高雷
 DOMAIN-SUFFIX,mulgore.net
 DOMAIN-SUFFIX,mgl.gay
+# 牛马
 DOMAIN-SUFFIX,goodisp.org
-DOMAIN-SUFFIX,loseremby.org
-DOMAIN-SUFFIX,dnslink.ml
-DOMAIN-SUFFIX,nebula-emby.com
-DOMAIN-SUFFIX,bangumi.ca
-DOMAIN-SUFFIX,zi0.icu
-DOMAIN-SUFFIX,9191001.xyz
+# 垃圾公费
 DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,loseremby.org
+# polo
+DOMAIN-SUFFIX,dnslink.ml
+# 星云
+DOMAIN-SUFFIX,nebula-emby.com
+# nya
+DOMAIN-SUFFIX,bangumi.ca
+# 梓澪
+DOMAIN-SUFFIX,zi0.icu
+# 放映厅
+DOMAIN-SUFFIX,9191001.xyz
+# 树状图
 DOMAIN-SUFFIX,123456.al
+# tank
 DOMAIN-SUFFIX,tank88.top
+# 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
+# CaptainZ
 DOMAIN-SUFFIX,wiri.tk
+# 纸片人
 DOMAIN-SUFFIX,embyplus.org
+# Magic
 DOMAIN-SUFFIX,freetz.top
+# 私人影院
+DOMAIN-SUFFIX,agon.cf
+# E-hub
 DOMAIN-SUFFIX,ednovas.org
+# 剧狗
 DOMAIN-SUFFIX,ju.dog
+# gugu
 DOMAIN-SUFFIX,dicarerhome.com
+# pilipili
 DOMAIN-SUFFIX,emby77.org
+# cc
 DOMAIN-SUFFIX,ccemby.tk
+# StarCat
 DOMAIN-SUFFIX,starcat.eu.org
 DOMAIN-SUFFIX,catlinks.co.uk
+# 餐厅
+DOMAIN-SUFFIX,mius.uk

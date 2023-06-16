@@ -1,11 +1,20 @@
 # Emby Proxy
 # 需要走代理的Emby服务器
+
+# 考研
 DOMAIN-SUFFIX,pornemby.club
+# 终点站
 DOMAIN-SUFFIX,emby.wtf
+# polo
 DOMAIN-SUFFIX,poloemby.xyz
+# 垃圾2服
 DOMAIN-SUFFIX,gtlx.org
+# misty
 DOMAIN-SUFFIX,misty.ltd
-DOMAIN-SUFFIX,gtma.top
+# hxd
 DOMAIN-SUFFIX,bili.rip
+# 不给看
 DOMAIN-SUFFIX,emby.pro
+DOMAIN-SUFFIX,gtma.top
+# 梁山
 DOMAIN-SUFFIX,shuipo.lol
