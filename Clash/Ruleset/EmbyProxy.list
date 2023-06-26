@@ -1,6 +1,8 @@
 # Emby Proxy
 # 需要走代理的Emby服务器
 
+# MisakaF
+DOMAIN-SUFFIX,misakaf.org
 # 考研
 DOMAIN-SUFFIX,pornemby.club
 # 终点站
