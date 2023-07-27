@@ -9,15 +9,12 @@ DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,embymv.me
 # 莫高雷
-DOMAIN-SUFFIX,mulgore.net
 DOMAIN-SUFFIX,mgl.gay
-# 牛马
-DOMAIN-SUFFIX,goodisp.org
 # 垃圾公费
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,loseremby.org
 # polo
-DOMAIN-SUFFIX,dnslink.ml
+DOMAIN-SUFFIX,polodns.xyz
 # 星云
 DOMAIN-SUFFIX,nebula-emby.com
 # nya
@@ -52,7 +49,6 @@ DOMAIN-SUFFIX,emby77.org
 DOMAIN-SUFFIX,ccemby.tk
 # StarCat
 DOMAIN-SUFFIX,starcat.eu.org
-DOMAIN-SUFFIX,catlinks.co.uk
 # 餐厅
 DOMAIN-SUFFIX,mius.uk
 # hxd
