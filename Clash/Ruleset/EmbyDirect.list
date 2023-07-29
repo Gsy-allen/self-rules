@@ -2,7 +2,7 @@
 # 直连的Emby服务器地址
 
 # Orange
-DOMAIN-SUFFIX,embytv.cf
+DOMAIN-SUFFIX,otv.icu
 # 垃圾1服
 DOMAIN-SUFFIX,emby.ml
 # Peach
@@ -51,7 +51,5 @@ DOMAIN-SUFFIX,ccemby.tk
 DOMAIN-SUFFIX,starcat.eu.org
 # 餐厅
 DOMAIN-SUFFIX,mius.uk
-# hxd
-DOMAIN-SUFFIX,bili.rip
 # 叔服
 DOMAIN-SUFFIX,mcjoker.xyz
