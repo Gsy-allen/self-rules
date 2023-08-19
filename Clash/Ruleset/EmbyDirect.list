@@ -3,18 +3,14 @@
 
 # Orange
 DOMAIN-SUFFIX,otv.icu
-# 垃圾1服
-DOMAIN-SUFFIX,emby.ml
 # Peach
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,embymv.me
 # 莫高雷
 DOMAIN-SUFFIX,mgl.gay
-# 垃圾公费
+# 垃圾1服及公费
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,loseremby.org
-# polo
-DOMAIN-SUFFIX,polodns.xyz
 # 星云
 DOMAIN-SUFFIX,nebula-emby.com
 # nya
@@ -25,8 +21,6 @@ DOMAIN-SUFFIX,zi0.icu
 DOMAIN-SUFFIX,9191001.xyz
 # 树状图
 DOMAIN-SUFFIX,123456.al
-# tank
-DOMAIN-SUFFIX,tank88.top
 # CaptainZ
 DOMAIN-SUFFIX,wiri.tk
 # 纸片人
@@ -35,8 +29,6 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,freetz.top
 # 私人影院
 DOMAIN-SUFFIX,agon.cf
-# E-hub
-DOMAIN-SUFFIX,ednovas.org
 # 剧狗
 DOMAIN-SUFFIX,ju.dog
 # pilipili
@@ -49,3 +41,5 @@ DOMAIN-SUFFIX,starcat.eu.org
 DOMAIN-SUFFIX,mius.uk
 # 叔服
 DOMAIN-SUFFIX,mcjoker.xyz
+# gugu
+DOMAIN-SUFFIX,gugumedia.link
