@@ -14,8 +14,6 @@ DOMAIN-SUFFIX,misty.ltd
 # 不给看
 DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,bgka.me
-# 梁山
-DOMAIN-SUFFIX,shuipo.lol
 # Marmot
 DOMAIN-SUFFIX,20120714.xyz
 # MJJ
@@ -24,3 +22,7 @@ DOMAIN-SUFFIX,mjjemby.org
 DOMAIN-SUFFIX,bili.rip
 # 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
+# 剧狗
+DOMAIN-SUFFIX,ju.dog
+# dolphin
+DOMAIN-SUFFIX,emby.ws

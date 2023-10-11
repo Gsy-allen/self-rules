@@ -13,12 +13,6 @@ DOMAIN-SUFFIX,mgl.gay
 # 垃圾1服及公费
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,loseremby.org
-# 星云
-DOMAIN-SUFFIX,nebula-emby.com
-# nya
-DOMAIN-SUFFIX,bangumi.ca
-# 梓澪
-DOMAIN-SUFFIX,zi0.icu
 # 放映厅
 DOMAIN-SUFFIX,9191001.xyz
 # 树状图
@@ -31,8 +25,6 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,freetz.top
 # 私人影院
 DOMAIN-SUFFIX,agon.cf
-# 剧狗
-DOMAIN-SUFFIX,ju.dog
 # pilipili
 DOMAIN-SUFFIX,emby77.org
 # cc
@@ -45,5 +37,3 @@ DOMAIN-SUFFIX,mius.uk
 DOMAIN-SUFFIX,mcjoker.xyz
 # gugu
 DOMAIN-SUFFIX,gugumedia.link
-# dolphin
-DOMAIN-SUFFIX,emby.ws
