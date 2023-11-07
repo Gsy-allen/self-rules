@@ -24,3 +24,6 @@ payload:
   - DOMAIN-SUFFIX,imetyou.top
   # 树状图
   - DOMAIN-SUFFIX,123456.al
+  # pilipili
+  - DOMAIN-SUFFIX,pilipiliultra.top
+  - DOMAIN-SUFFIX,pilipiliultra.com

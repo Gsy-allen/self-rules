@@ -17,9 +17,6 @@ payload:
   - DOMAIN-SUFFIX,freetz.top
   # 私人影院
   - DOMAIN-SUFFIX,agon.cf
-  # pilipili
-  - DOMAIN-SUFFIX,pilipiliultra.top
-  - DOMAIN-SUFFIX,pilipiliultra.com
   # cc
   - DOMAIN-SUFFIX,ccemby.tk
   # 叔服
