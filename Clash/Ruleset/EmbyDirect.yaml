@@ -1,6 +1,6 @@
 payload:
   # MisakaF
-  - DOMAIN-KEYWORD,misakaf
+  - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,cfprefer3.xyz
   # Orange
   - DOMAIN-SUFFIX,otv.icu
