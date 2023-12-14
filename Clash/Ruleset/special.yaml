@@ -1,2 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,69shuba.com
+  # 69书吧
+  - DOMAIN,SUFFIX,69shuba.com
+
+  # livednow
+  - DOMAIN,hls.livednow.com
+  - DOMAIN-SUFFIX,dtmb-s2.cc
+  - DOMAIN-SUFFIX,stream-link.org
+  - DOMAIN-SUFFIX,stream-link.online
+  - DOMAIN,litvpc-hichannel.cdn.hinet.net
+  - DOMAIN,hoytv-live-stream.hoy.tv
+  - DOMAIN,yt-stream.livednow.com
+  - DOMAIN-SUFFIX,laotv.la
