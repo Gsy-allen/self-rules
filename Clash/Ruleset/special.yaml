@@ -1,6 +1,6 @@
 payload:
   # 69书吧
-  - DOMAIN,SUFFIX,69shuba.com
+  - DOMAIN-SUFFIX,69shuba.com
 
   # livednow
   - DOMAIN-SUFFIX,livednow.com
