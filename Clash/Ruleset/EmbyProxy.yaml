@@ -30,8 +30,12 @@ payload:
   - DOMAIN-SUFFIX,pilipiliultra.top
   - DOMAIN-SUFFIX,pilipiliultra.com
   # MJJ
-  - DOMAIN-SUFFIX,ccemby.live
+  - DOMAIN-SUFFIX,mjjemby.org
   # Ash
   - DOMAIN-SUFFIX,ash.yt
   # ntrrr
   - DOMAIN-SUFFIX,lcloud.wiki
+  # cc plex
+  - DOMAIN-SUFFIX,ccemby.live
+  # peach plex
+  - DOMAIN-SUFFIX,peachmv.me
