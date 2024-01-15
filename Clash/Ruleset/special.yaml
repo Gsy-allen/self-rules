@@ -12,3 +12,6 @@ payload:
   - DOMAIN-SUFFIX,hoy.tv
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,laotv.la
+
+  # 红豆饭
+  - DOMAIN-SUFFIX,hdfans.org
