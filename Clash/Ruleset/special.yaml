@@ -15,3 +15,6 @@ payload:
 
   # 红豆饭
   - DOMAIN-SUFFIX,hdfans.org
+
+  # 飞天拉面
+  - DOMAIN-SUFFIX,fsm.name
