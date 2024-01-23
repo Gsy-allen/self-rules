@@ -24,3 +24,6 @@ payload:
 
   # okpt
   - DOMAIN-SUFFIX,okpt.net
+
+  # PTTime
+  - DOMAIN-SUFFIX,pttime.org
