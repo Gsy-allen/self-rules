@@ -27,3 +27,6 @@ payload:
 
   # PTTime
   - DOMAIN-SUFFIX,pttime.org
+
+  # 大青虫
+  - DOMAIN-SUFFIX,cyanbug.net
