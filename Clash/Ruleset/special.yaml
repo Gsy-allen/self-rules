@@ -2,6 +2,9 @@ payload:
   # 69书吧
   - DOMAIN-SUFFIX,69shuba.com
 
+  # a4k
+  - DOMAIN-SUFFIX,a4k.net/
+
   # livednow
   - DOMAIN-SUFFIX,livednow.com
   - DOMAIN-SUFFIX,dtmb-s1.cc
