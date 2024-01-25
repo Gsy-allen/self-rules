@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,69shuba.com
 
   # a4k
-  - DOMAIN-SUFFIX,a4k.net/
+  - DOMAIN-SUFFIX,a4k.net
 
   # livednow
   - DOMAIN-SUFFIX,livednow.com
