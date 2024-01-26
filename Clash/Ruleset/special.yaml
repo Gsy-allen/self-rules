@@ -39,3 +39,6 @@ payload:
 
   # 学院
   - DOMAIN-SUFFIX,ptchina.org
+
+  # 观众
+  - DOMAIN-SUFFIX,audiences.me
