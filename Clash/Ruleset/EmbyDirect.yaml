@@ -1,6 +1,5 @@
 payload:
-  # MisakaF
-  - DOMAIN-SUFFIX,misakaf.org
+
   # Orange
   - DOMAIN-SUFFIX,otv.icu
   # Peach
