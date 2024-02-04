@@ -42,3 +42,12 @@ payload:
 
   # 观众
   - DOMAIN-SUFFIX,audiences.me
+
+  # 憨憨
+  - DOMAIN-SUFFIX,hhanclub.top
+
+  # 车
+  - DOMAIN-SUFFIX,carpt.net
+
+  # 冰淇淋
+  - DOMAIN-SUFFIX,www.icc2022.com
