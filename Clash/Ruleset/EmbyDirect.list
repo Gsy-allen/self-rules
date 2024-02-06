@@ -1,8 +1,6 @@
 # Emby Direct
 # 直连的Emby服务器地址
 
-# MisakaF
-DOMAIN-SUFFIX,misakaf.org
 # Orange
 DOMAIN-SUFFIX,otv.icu
 # Peach
@@ -19,13 +17,8 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,freetz.top
 # 私人影院
 DOMAIN-SUFFIX,agon.cf
-# pilipili
-DOMAIN-SUFFIX,pilipiliultra.top
-DOMAIN-SUFFIX,pilipiliultra.com
 # cc
 DOMAIN-SUFFIX,ccemby.tk
-# hxd
-DOMAIN-SUFFIX,bili.rip
 # gugu
 DOMAIN-SUFFIX,gugumedia.link
 # 鹅
