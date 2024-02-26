@@ -54,3 +54,6 @@ payload:
 
   # 红叶
   - DOMAIN-SUFFIX,leaves.red
+
+  # 高清时光
+  - DOMAIN-SUFFIX,hdtime.org
