@@ -50,4 +50,7 @@ payload:
   - DOMAIN-SUFFIX,carpt.net
 
   # 冰淇淋
-  - DOMAIN-SUFFIX,www.icc2022.com
+  - DOMAIN-SUFFIX,icc2022.com
+
+  # 红叶
+  - DOMAIN-SUFFIX,leaves.red
