@@ -1,0 +1,48 @@
+payload:
+
+  # 拉面
+  - DOMAIN,fsm-us.eu.org
+  - DOMAIN,creditracker.net
+
+  # 莫妮卡
+  - DOMAIN,daisuki.monikadesign.uk
+
+  # 憨憨
+  - DOMAIN,tracker.hhan.club
+  - DOMAIN,hhanclub.top
+
+  # 铂金家
+  - DOMAIN,t.pthome.net
+
+  # 车
+  - DOMAIN,tracker.carpt.net
+
+  # 大青虫
+  - DOMAIN,tracker.cyanbug.net
+
+  #高清时间
+  - DOMAIN,tracker.hdtime.org
+
+  # 冰淇淋
+  - DOMAIN,tracker.icc2022.xyz
+  - DOMAIN,tracker1.czhch.com
+  - DOMAIN,tracker2.czhch.com
+  - DOMAIN,tracker3.czhch.com
+  - DOMAIN,tracker1.icc2022.de
+  - DOMAIN,tracker2.icc2022.de
+  - DOMAIN,tracker3.icc2022.de
+
+  # 红叶
+  - DOMAIN,tracker.leaves.red
+  - DOMAIN,tracker2.leaves.red
+  - DOMAIN,tracker3.leaves.red
+
+  # 馒头
+  - DOMAIN,tracker.m-team.io
+  - DOMAIN,v6tracker.m-team.io
+
+  # 听听歌
+  - DOMAIN,tracker.totheglory.im
+
+  # PTT
+  - DOMAIN,www.pttime.org
