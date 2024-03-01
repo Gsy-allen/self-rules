@@ -9,7 +9,6 @@ payload:
 
   # 憨憨
   - DOMAIN,tracker.hhan.club
-  - DOMAIN,hhanclub.top
 
   # 铂金家
   - DOMAIN,t.pthome.net
@@ -43,6 +42,3 @@ payload:
 
   # 听听歌
   - DOMAIN,tracker.totheglory.im
-
-  # PTT
-  - DOMAIN,www.pttime.org
