@@ -31,11 +31,6 @@ payload:
   - DOMAIN,tracker2.icc2022.de
   - DOMAIN,tracker3.icc2022.de
 
-  # 红叶
-  - DOMAIN,tracker.leaves.red
-  - DOMAIN,tracker2.leaves.red
-  - DOMAIN,tracker3.leaves.red
-
   # 馒头
   - DOMAIN,tracker.m-team.io
   - DOMAIN,v6tracker.m-team.io
