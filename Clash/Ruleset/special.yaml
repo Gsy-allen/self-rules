@@ -57,3 +57,6 @@ payload:
 
   # 高清时光
   - DOMAIN-SUFFIX,hdtime.org
+
+  # 青蛙
+  - DOMAIN-SUFFIX,qingwa.pro
