@@ -9,17 +9,18 @@ payload:
 
   # 憨憨
   - DOMAIN,tracker.hhan.club
+  - DOMAIN,hhanclub.top
 
   # 铂金家
-  - DOMAIN,t.pthome.net
+  - DOMAIN,pthome.net
 
   # 车
-  - DOMAIN,tracker.carpt.net
+  - DOMAIN,carpt.net
 
   # 大青虫
-  - DOMAIN,tracker.cyanbug.net
+  - DOMAIN,cyanbug.net
 
-  #高清时间
+  # 高清时间
   - DOMAIN,tracker.hdtime.org
 
   # 冰淇淋
