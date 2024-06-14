@@ -39,4 +39,4 @@ payload:
   - DOMAIN,tracker.m-team.cc
 
   # 听听歌
-  - DOMAIN,tracker.totheglory.im
+  - DOMAIN-SUFFIX,totheglory.im
