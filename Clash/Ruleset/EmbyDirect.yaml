@@ -1,12 +1,8 @@
 payload:
 
-  # Orange
-  - DOMAIN-SUFFIX,otv.icu
   # Peach
   - DOMAIN-SUFFIX,embymv.tk
   - DOMAIN-SUFFIX,embymv.top
-  # 放映厅
-  - DOMAIN-SUFFIX,9191001.xyz
   # 垃圾
   - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,gtlx.org
@@ -14,11 +10,7 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org
   # Magic
   - DOMAIN-SUFFIX,freetz.top
-  # 私人影院
-  - DOMAIN-SUFFIX,agon.cf
   # cc
   - DOMAIN-SUFFIX,coemn.com
-  # gugu
-  - DOMAIN-SUFFIX,gugu.media
   # 翠鸟
   - DOMAIN-SUFFIX,lyrebirdemby.com

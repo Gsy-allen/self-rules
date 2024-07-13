@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,poloemby.xyz
   # 不给看
   - DOMAIN-SUFFIX,emby.pro
-  - DOMAIN-SUFFIX,bgka.me
   # Marmot
   - DOMAIN-SUFFIX,20120714.xyz
   # MJJ
@@ -14,8 +13,6 @@ payload:
   - DOMAIN-SUFFIX,jmsooo.com
   # 叔服
   - DOMAIN-SUFFIX,mcjoker.xyz
-  # dolphin
-  - DOMAIN-SUFFIX,emby.ws
   # Paul
   - DOMAIN-SUFFIX,imetyou.top
   # 树状图
@@ -23,12 +20,11 @@ payload:
   # pilipili
   - DOMAIN-SUFFIX,pilipiliultra.top
   - DOMAIN-SUFFIX,pilipiliultra.com
-  # Ash
-  - DOMAIN-SUFFIX,ash.yt
   # MisakaF
   - DOMAIN-SUFFIX,misakaf.org
   # hxd
   - DOMAIN-SUFFIX,bili.rip
+  - DOMAIN-SUFFIX,as174.com
   # cc plex
   - DOMAIN-SUFFIX,ccemby.live
   # peach plex
