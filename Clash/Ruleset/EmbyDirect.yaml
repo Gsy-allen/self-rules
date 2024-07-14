@@ -6,8 +6,6 @@ payload:
   # 垃圾
   - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,gtlx.org
-  # 纸片人
-  - DOMAIN-SUFFIX,embyplus.org
   # Magic
   - DOMAIN-SUFFIX,freetz.top
   # cc
