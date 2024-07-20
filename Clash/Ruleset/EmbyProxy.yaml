@@ -33,6 +33,3 @@ payload:
   - DOMAIN-SUFFIX,peachmv.me
   # 终点站
   - DOMAIN-SUFFIX,emby.wtf
-
-  # mefun 未响
-  - DOMAIN-SUFFIX,mefun.org
