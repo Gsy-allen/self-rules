@@ -32,9 +32,6 @@ payload:
   # 天空
   - DOMAIN-SUFFIX,hdsky.me
 
-  # 观众
-  - DOMAIN-SUFFIX,audiences.me
-
   # 冰淇淋
   - DOMAIN-SUFFIX,icc2022.com
 

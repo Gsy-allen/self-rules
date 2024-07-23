@@ -40,3 +40,8 @@ payload:
 
   # 听听歌
   - DOMAIN-SUFFIX,totheglory.im
+
+
+  # 观众
+  - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN-SUFFIX,cinefiles.info
