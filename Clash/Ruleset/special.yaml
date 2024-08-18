@@ -17,26 +17,20 @@ payload:
   - DOMAIN-SUFFIX,laotv.la
 
   # 4gtv
-  - IP-CIDR,13.112.0.0/14,no-resolve
   - DOMAIN-SUFFIX,4gtv.tv
   - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,livednow.com
   - DOMAIN-SUFFIX,ofiii.com
 
+  - DOMAIN-SUFFIX,orz-7.com
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,thetvapp.to
+
   # 飞天拉面
   - DOMAIN-SUFFIX,fsm.name
 
-  # PTTime
-  - DOMAIN-SUFFIX,pttime.org
-
-  # 天空
-  - DOMAIN-SUFFIX,hdsky.me
-
   # 冰淇淋
   - DOMAIN-SUFFIX,icc2022.com
-
-  # 高清时光
-  - DOMAIN-SUFFIX,hdtime.org
 
   # 青蛙
   - DOMAIN-SUFFIX,qingwapt.com
