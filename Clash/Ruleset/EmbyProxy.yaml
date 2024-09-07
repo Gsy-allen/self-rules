@@ -20,8 +20,7 @@ payload:
   # 树状图
   - DOMAIN-SUFFIX,123456.al
   # pilipili
-  - DOMAIN-SUFFIX,pilipiliultra.top
-  - DOMAIN-SUFFIX,pilipiliultra.com
+  - DOMAIN-SUFFIX,pilipili.club
   # MisakaF
   - DOMAIN-SUFFIX,misakaf.org
   # hxd
