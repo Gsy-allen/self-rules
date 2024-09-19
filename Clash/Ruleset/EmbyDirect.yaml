@@ -12,6 +12,10 @@ payload:
   - DOMAIN-SUFFIX,coemn.com
   # 翠鸟
   - DOMAIN-SUFFIX,lyrebirdemby.com
+  # 终点站
+  - DOMAIN-SUFFIX,emby.wtf
+  # 纸片人
+  - DOMAIN-SUFFIX,embyplus.org
 
   # mefun 未响
   - DOMAIN-SUFFIX,mefun.org
