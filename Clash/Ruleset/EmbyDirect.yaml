@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,term.wtf
   # 纸片人
   - DOMAIN-SUFFIX,embyplus.org
+  # 天南
+  - DOMAIN-SUFFIX,nanflix.net
 
   # mefun 未响
   - DOMAIN-SUFFIX,mefun.org
