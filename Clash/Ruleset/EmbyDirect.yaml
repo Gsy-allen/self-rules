@@ -16,8 +16,6 @@ payload:
   # 终点站
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,term.wtf
-  # 天南
-  - DOMAIN-SUFFIX,nanflix.net
 
   # mefun 未响
   - DOMAIN-SUFFIX,mefun.org
