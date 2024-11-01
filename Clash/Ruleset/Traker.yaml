@@ -15,15 +15,6 @@ payload:
   # 铂金家
   - DOMAIN,pthome.net
 
-  # 车
-  - DOMAIN,carpt.net
-
-  # 大青虫
-  - DOMAIN,cyanbug.net
-
-  # 高清时间
-  - DOMAIN,tracker.hdtime.org
-
   # 冰淇淋
   - DOMAIN,tracker.icc2022.xyz
   - DOMAIN,tracker1.czhch.com
