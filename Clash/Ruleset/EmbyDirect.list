@@ -8,15 +8,10 @@ DOMAIN-SUFFIX,embymv.top
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,gtlx.org
 DOMAIN-SUFFIX,loseremby.org
-# Magic
-DOMAIN-SUFFIX,freetz.top
 # cc
 DOMAIN-SUFFIX,coemn.com
 # 翠鸟
 DOMAIN-SUFFIX,lyrebirdemby.com
-# 终点站
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,term.wtf
 
 # mefun 未响
 DOMAIN-SUFFIX,mefun.org
