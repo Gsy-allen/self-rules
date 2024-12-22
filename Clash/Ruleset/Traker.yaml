@@ -27,10 +27,10 @@ payload:
   # 馒头
   - DOMAIN-SUFFIX,m-team.io
   - DOMAIN-SUFFIX,m-team.cc
-#  - DOMAIN,tracker.m-team.io
-#  - DOMAIN,v6tracker.m-team.io
-#  - DOMAIN,ipv6-tracker.m-team.cc
-#  - DOMAIN,tracker.m-team.cc
+  - DOMAIN,tracker.m-team.io
+  - DOMAIN,v6tracker.m-team.io
+  - DOMAIN,ipv6-tracker.m-team.cc
+  - DOMAIN,tracker.m-team.cc
 
   # 听听歌
   - DOMAIN-SUFFIX,totheglory.im
