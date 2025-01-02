@@ -1,12 +1,8 @@
 payload:
-  # 考研
-  - DOMAIN-SUFFIX,pornemby.com
   # polo
   - DOMAIN-SUFFIX,poloemby.xyz
   # 不给看
   - DOMAIN-SUFFIX,emby.pro
-  # Marmot
-  - DOMAIN-SUFFIX,20120714.xyz
   # MJJ
   - DOMAIN-SUFFIX,yhemby.top
   # 卷毛鼠
@@ -24,18 +20,8 @@ payload:
   # hxd
   - DOMAIN-SUFFIX,bili.rip
   - DOMAIN-SUFFIX,as174.com
-  # cc plex
-  - DOMAIN-SUFFIX,ccemby.live
-  # peach plex
-  - DOMAIN-SUFFIX,peachmv.me
-  # alpha
-  - DOMAIN-SUFFIX,alphatvapp.top
-  # 非越
-  - DOMAIN-SUFFIX,sfcj.org
   # 纸片人
   - DOMAIN-SUFFIX,embyplus.org
-  # 天南
-  - DOMAIN-SUFFIX,nanflix.net
   # 终点站
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,term.wtf
