@@ -15,6 +15,3 @@ payload:
   # mefun 未响
   - DOMAIN-SUFFIX,mefun.org
 
-  # 好鸭
-  - DOMAIN-SUFFIX,niceduck.lol
-  - DOMAIN-SUFFIX,emby.moe
