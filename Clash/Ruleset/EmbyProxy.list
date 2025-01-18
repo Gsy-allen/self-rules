@@ -2,7 +2,6 @@
 # 需要走代理的Emby服务器
 
 #porn
-DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,pornemby.com
 # polo
 DOMAIN-SUFFIX,poloemby.xyz
