@@ -1,6 +1,8 @@
 # Emby Proxy
 # 需要走代理的Emby服务器
 
+#porn
+DOMAIN-SUFFIX,pornemby.club
 # polo
 DOMAIN-SUFFIX,poloemby.xyz
 # 不给看
