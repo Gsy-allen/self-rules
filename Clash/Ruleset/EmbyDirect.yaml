@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,coemn.com
   # 翠鸟
   - DOMAIN-SUFFIX,lyrebirdemby.com
+  # pilipili
+  - DOMAIN-SUFFIX,pilipili.club
 
   # mefun 未响
   - DOMAIN-SUFFIX,mefun.org
