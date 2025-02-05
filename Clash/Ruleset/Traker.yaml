@@ -3,6 +3,8 @@ payload:
   # 拉面
   - DOMAIN,fsm-us.eu.org
   - DOMAIN,creditracker.net
+  - DOMAIN,nextpt.net
+  - DOMAIN,connects.icu
 
   # 莫妮卡
   - DOMAIN,daisuki.monikadesign.uk
