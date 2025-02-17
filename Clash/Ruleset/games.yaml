@@ -1,11 +1,7 @@
 payload:
   # steam
-  - DOMAIN,steambroadcast.akamaized.net
-  - DOMAIN,steamcommunity-a.akamaihd.net
-  - DOMAIN,steampipe.akamaized.net
-  - DOMAIN,steamstore-a.akamaihd.net
-  - DOMAIN,steamusercontent-a.akamaihd.net
-  - DOMAIN,steamuserimages-a.akamaihd.net
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,playartifact.com
