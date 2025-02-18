@@ -43,3 +43,6 @@ payload:
   # 观众
   - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,cinefiles.info
+
+  # sunny
+  - DOMAIN-SUFFIX,sunnypt.top
