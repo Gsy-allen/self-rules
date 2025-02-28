@@ -26,6 +26,9 @@ payload:
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,thetvapp.to
 
+  # cherry 更新
+  - DOMAIN-SUFFIX,ocool.online
+
   # 飞天拉面
   - DOMAIN-SUFFIX,fsm.name
 
