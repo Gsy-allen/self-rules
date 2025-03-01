@@ -29,6 +29,9 @@ payload:
   # cherry 更新
   - DOMAIN-SUFFIX,ocool.online
 
+  # akash api
+  - DOMAIN-SUFFIX,akash.network
+
   # 飞天拉面
   - DOMAIN-SUFFIX,fsm.name
 
