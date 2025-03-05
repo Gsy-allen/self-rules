@@ -1,9 +1,6 @@
 payload:
-  # duocloud
-  - DOMAIN-SUFFIX,duocloud.net
-
-  # a4k
-  - DOMAIN-SUFFIX,a4k.net
+  # midjourney出图
+  - DOMAIN-SUFFIX,innk.cc
 
   # livednow
   - DOMAIN-SUFFIX,livednow.com
