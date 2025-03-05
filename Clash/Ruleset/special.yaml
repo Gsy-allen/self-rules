@@ -1,6 +1,7 @@
 payload:
   # midjourney出图
   - DOMAIN-SUFFIX,innk.cc
+  - DOMAIN-SUFFIX,wsrv.nl
 
   # livednow
   - DOMAIN-SUFFIX,livednow.com
