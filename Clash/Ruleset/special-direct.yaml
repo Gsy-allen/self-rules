@@ -21,3 +21,8 @@ payload:
   - DOMAIN-SUFFIX,cloud.sap
   - DOMAIN-SUFFIX,sap.com
   - DOMAIN-SUFFIX,tools.sap
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,powerpoint.com
+  - DOMIAN-SUFFIX,office.com
+  - DOMIAN-SUFFIX,services.sap
+  - DOMIAN-SUFFIX,microsoftonline.com
