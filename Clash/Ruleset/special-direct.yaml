@@ -23,6 +23,8 @@ payload:
   - DOMAIN-SUFFIX,tools.sap
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,powerpoint.com
-  - DOMIAN-SUFFIX,office.com
-  - DOMIAN-SUFFIX,services.sap
-  - DOMIAN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,services.sap
+  - DOMAIN-SUFFIX,microsoftonline.com
+
+  - DOMAIN-SUFFIX,cloudflarestorage.com
