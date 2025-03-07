@@ -16,6 +16,7 @@ payload:
 
   - DOMAIN-SUFFIX,tshtxyd.uk
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,crond.dev
 
   - DOMAIN-SUFFIX,cloud.sap
   - DOMAIN-SUFFIX,sap.com
