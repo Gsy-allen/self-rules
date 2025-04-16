@@ -2,6 +2,7 @@ payload:
   # midjourney出图
   - DOMAIN-SUFFIX,innk.cc
   - DOMAIN-SUFFIX,wsrv.nl
+  - DOMAIN-SUFFIX,fonedis.cc
 
   # midjourney 参考图
   - DOMAIN-SUFFIX,u14.app
