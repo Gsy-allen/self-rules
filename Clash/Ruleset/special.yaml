@@ -3,26 +3,8 @@ payload:
   - DOMAIN-SUFFIX,innk.cc
   - DOMAIN-SUFFIX,wsrv.nl
 
-  # livednow
-  - DOMAIN-SUFFIX,livednow.com
-  - DOMAIN-SUFFIX,dtmb-s1.cc
-  - DOMAIN-SUFFIX,dtmb-s2.cc
-  - DOMAIN-SUFFIX,stream-link.org
-  - DOMAIN-SUFFIX,stream-link.online
-  - DOMAIN-SUFFIX,hinet.net
-  - DOMAIN-SUFFIX,hoy.tv
-  - DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,laotv.la
-
-  # 4gtv
-  - DOMAIN-SUFFIX,4gtv.tv
-  - DOMAIN-SUFFIX,hinet.net
-  - DOMAIN-SUFFIX,livednow.com
-  - DOMAIN-SUFFIX,ofiii.com
-
-  - DOMAIN-SUFFIX,orz-7.com
-  - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-SUFFIX,thetvapp.to
+  # midjourney 参考图
+  - DOMAIN-SUFFIX,u14.app
 
   # cherry 更新
   - DOMAIN-SUFFIX,ocool.online
