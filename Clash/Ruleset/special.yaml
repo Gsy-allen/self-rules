@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,wsrv.nl
   - DOMAIN-SUFFIX,fonedis.cc
 
+  # youware
+  - DOMAIN-SUFFIX,yourware.so
+
   # midjourney 参考图
   - DOMAIN-SUFFIX,u14.app
 
