@@ -6,6 +6,7 @@ payload:
 
   # youware
   - DOMAIN-SUFFIX,yourware.so
+  - DOMAIN-SUFFIX,yourware.app
 
   # midjourney 参考图
   - DOMAIN-SUFFIX,u14.app
