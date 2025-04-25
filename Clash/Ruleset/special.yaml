@@ -25,3 +25,6 @@ payload:
 
   # 青蛙
   - DOMAIN-SUFFIX,qingwapt.com
+
+  # x666
+  - DOMAIN-SUFFIX.x666.me
