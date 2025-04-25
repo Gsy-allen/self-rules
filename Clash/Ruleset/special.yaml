@@ -27,4 +27,4 @@ payload:
   - DOMAIN-SUFFIX,qingwapt.com
 
   # x666
-  - DOMAIN-SUFFIX.x666.me
+  - DOMAIN-SUFFIX,x666.me
