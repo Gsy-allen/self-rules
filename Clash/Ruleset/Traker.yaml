@@ -49,3 +49,8 @@ payload:
 
   # ssd
   - DOMAIN,on.springsunday.net
+
+  # 红叶
+  - DOMAIN,tracker.leaves.red
+  - DOMAIN,tracker2.leaves.red
+  - DOMAIN,tracker3.leaves.red

@@ -31,3 +31,6 @@ payload:
 
   # ssd
   - DOMAIN-SUFFIX,springsunday.net
+
+  # 红叶
+  - DOMAIN-SUFFIX,leaves.red
