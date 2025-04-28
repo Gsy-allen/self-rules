@@ -41,8 +41,11 @@ payload:
   - DOMAIN-SUFFIX,open.cd
 
   # 观众
-  - DOMAIN-SUFFIX,audiences.me
-  - DOMAIN-SUFFIX,cinefiles.info
+  - DOMAIN,t.audiences.me
+  - DOMAIN,tracker.cinefiles.info
 
   # sunny
   - DOMAIN-SUFFIX,sunnypt.top
+
+  # ssd
+  - DOMAIN,on.springsunday.net
