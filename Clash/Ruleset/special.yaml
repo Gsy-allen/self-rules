@@ -34,3 +34,6 @@ payload:
 
   # 红叶
   - DOMAIN-SUFFIX,leaves.red
+
+  # x666
+  - DOMAIN-SUFFIX,x666.me
