@@ -34,6 +34,3 @@ payload:
 
   # 红叶
   - DOMAIN-SUFFIX,leaves.red
-
-  # microsoft copilot
-  - DOMAIN,copilot.microsoft.com
