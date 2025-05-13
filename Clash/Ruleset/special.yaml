@@ -34,3 +34,6 @@ payload:
 
   # 红叶
   - DOMAIN-SUFFIX,leaves.red
+
+  # pinterest
+  - DOMAIN-SUFFIX,pinterest.com
