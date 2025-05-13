@@ -37,3 +37,4 @@ payload:
 
   # pinterest
   - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,pinimg.com
