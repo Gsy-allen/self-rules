@@ -38,3 +38,6 @@ payload:
   # pinterest
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pinimg.com
+
+  # opaoai
+  - DOMAIN-SUFFIX,opaoai.com
