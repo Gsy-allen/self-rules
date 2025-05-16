@@ -54,3 +54,6 @@ payload:
   - DOMAIN,tracker.leaves.red
   - DOMAIN,tracker2.leaves.red
   - DOMAIN,tracker3.leaves.red
+
+  # chd
+  - DOMAIN-SUFFIX,ptchdbits.co
