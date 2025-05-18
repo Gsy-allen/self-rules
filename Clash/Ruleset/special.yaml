@@ -41,3 +41,6 @@ payload:
 
   # opaoai
   - DOMAIN-SUFFIX,opaoai.com
+
+  # sunny
+  - DOMAIN-SUFFIX,sunnypt.top

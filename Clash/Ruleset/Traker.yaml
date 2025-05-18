@@ -45,7 +45,7 @@ payload:
   - DOMAIN,tracker.cinefiles.info
 
   # sunny
-  - DOMAIN-SUFFIX,sunnypt.top
+  - DOMAIN-SUFFIX,sunnytk.top
 
   # ssd
   - DOMAIN,on.springsunday.net
