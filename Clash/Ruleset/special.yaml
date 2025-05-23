@@ -44,3 +44,6 @@ payload:
 
   # sunny
   - DOMAIN-SUFFIX,sunnypt.top
+
+  # clawcloud
+  - DOMAIN-SUFFIX,clawcloudrun.com
