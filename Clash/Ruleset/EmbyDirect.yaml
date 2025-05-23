@@ -4,8 +4,6 @@ payload:
   - DOMAIN-SUFFIX,embymv.link
   - DOMAIN-SUFFIX,embymv.top
   # 垃圾
-  - DOMAIN-SUFFIX,xmsl.org
-  - DOMAIN-SUFFIX,gtlx.org
   - DOMAIN-SUFFIX,loseremby.org
   # cc
   - DOMAIN-SUFFIX,coemn.com
@@ -14,9 +12,6 @@ payload:
 
   # mefun 未响
   - DOMAIN-SUFFIX,mefun.org
-
-  # temby
-  - DOMAIN-SUFFIX,285286.xyz
 
   # zox
   - DOMAIN-SUFFIX,zox.show
