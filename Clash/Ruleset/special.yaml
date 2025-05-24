@@ -47,3 +47,6 @@ payload:
 
   # clawcloud
   - DOMAIN-SUFFIX,clawcloudrun.com
+
+  # pterclub
+  - DOMAIN-SUFFIX,pterclub.com
