@@ -59,3 +59,6 @@ payload:
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,rainbowisland.co
   - DOMAIN-SUFFIX,chdbits.xyz
+
+  # pterclub
+  - DOMAIN,tracker.pterclub.com
