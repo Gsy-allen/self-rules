@@ -50,3 +50,6 @@ payload:
 
   # pterclub
   - DOMAIN-SUFFIX,pterclub.com
+
+  # cloudflarestorage
+  - DOMAIN-SUFFIX,cloudflarestorage.com
