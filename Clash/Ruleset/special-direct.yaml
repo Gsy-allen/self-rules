@@ -15,5 +15,3 @@ payload:
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,office365.com
-
-  - DOMAIN-SUFFIX,cloudflarestorage.com
