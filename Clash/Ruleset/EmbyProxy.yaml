@@ -3,8 +3,6 @@ payload:
   - DOMAIN-SUFFIX,pornemby.com
   # polo
   - DOMAIN-SUFFIX,poloemby.xyz
-  # MJJ
-  - DOMAIN-SUFFIX,yhemby.top
   # 卷毛鼠
   - DOMAIN-SUFFIX,jmsuper.com
   # 叔服
@@ -19,11 +17,10 @@ payload:
   # 终点站
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,term.wtf
-  # 好鸭
-  - DOMAIN-SUFFIX,niceduck.lol
-  - DOMAIN-SUFFIX,emby.moe
   # pilipili
   - DOMAIN-SUFFIX,pilipiliultra.com
   # 垃圾
   - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,gtlx.org
+  # CC
+  - DOMAIN-SUFFIX,carryz.net
