@@ -5,13 +5,12 @@ payload:
   - DOMAIN-SUFFIX,embymv.top
   # 垃圾
   - DOMAIN-SUFFIX,loseremby.org
-  # cc
-  - DOMAIN-SUFFIX,coemn.com
   # 翠鸟
   - DOMAIN-SUFFIX,lyrebirdemby.com
-
   # mefun 未响
   - DOMAIN-SUFFIX,mefun.org
-
   # zox
   - DOMAIN-SUFFIX,zox.show
+  # hxd
+  - DOMAIN-SUFFIX,bili.rip
+  - DOMAIN-SUFFIX,as174.de
