@@ -53,3 +53,6 @@ payload:
 
   # cloudflarestorage
   - DOMAIN-SUFFIX,cloudflarestorage.com
+
+  # lyrebird 机场
+  - DOMAIN-SUFFIX,lyrebied.cloud
