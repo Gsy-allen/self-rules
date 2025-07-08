@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,carryz.net
   # 垃圾
   - DOMAIN-SUFFIX,emby.moe
+  - DOMAIN-SUFFIX,xxlb.net
   # GUGU
   - DOMAIN-SUFFIX,gugumedia.org
   # jingzhe
