@@ -57,3 +57,6 @@ payload:
 
   # lyrebird 机场
   - DOMAIN-SUFFIX,lyrebird.cloud
+
+  # catsapi
+  - DOMAIN-SUFFIX,catsapi.com
