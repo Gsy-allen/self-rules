@@ -28,3 +28,5 @@ payload:
   - DOMAIN-SUFFIX,gugumedia.org
   # jingzhe
   - DOMAIN-SUFFIX,jingzhe.pro
+  # nebula
+  - DOMAIN-SUFFIX,nebula-media.org
