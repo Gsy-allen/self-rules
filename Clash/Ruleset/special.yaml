@@ -60,3 +60,6 @@ payload:
 
   # catsapi
   - DOMAIN-SUFFIX,catsapi.com
+
+  # bestvm.cloud
+  - DOMAIN-SUFFIX,bestvm.cloud
