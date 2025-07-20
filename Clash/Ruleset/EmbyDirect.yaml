@@ -1,7 +1,6 @@
 payload:
 
   # Peach
-  - DOMAIN-SUFFIX,embymv.link
   - DOMAIN-SUFFIX,embymv.top
   # 垃圾
   - DOMAIN-SUFFIX,loseremby.org
