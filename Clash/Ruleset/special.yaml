@@ -63,3 +63,6 @@ payload:
 
   # bestvm.cloud
   - DOMAIN-SUFFIX,bestvm.cloud
+
+  # evoxt.com
+  - DOMAIN-SUFFIX,evoxt.com
