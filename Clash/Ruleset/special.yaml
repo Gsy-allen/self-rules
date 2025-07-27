@@ -69,3 +69,6 @@ payload:
 
   # hostdzire.com
   - DOMAIN-SUFFIX,hostdzire.com
+
+  # nohavps.com
+  - DOMAIN-SUFFIX,nohavps.com
