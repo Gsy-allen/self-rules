@@ -3,7 +3,6 @@ payload:
   - DOMAIN-SUFFIX,tshtxyd.uk
   - DOMAIN-SUFFIX,tshtxyd.top
   - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,crond.dev
 
   - DOMAIN-SUFFIX,cloud.sap
   - DOMAIN-SUFFIX,sap.com
@@ -18,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,akamaized.net
