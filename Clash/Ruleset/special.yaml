@@ -72,3 +72,6 @@ payload:
 
   # nohavps.com
   - DOMAIN-SUFFIX,nohavps.com
+
+  # gorelay.net
+  - DOMAIN-SUFFIX,gorelay.net
