@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,akamaized.net
