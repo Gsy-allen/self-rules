@@ -75,3 +75,6 @@ payload:
 
   # gorelay.net
   - DOMAIN-SUFFIX,gorelay.net
+
+  # gueai.com
+  - DOMAIN-SUFFIX,gueai.com
