@@ -75,3 +75,6 @@ payload:
 
   # gorelay.net
   - DOMAIN-SUFFIX,gorelay.net
+
+  # sharon.io
+  - DOMAIN-SUFFIX,sharon.io
