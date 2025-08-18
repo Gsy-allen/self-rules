@@ -32,3 +32,5 @@ payload:
   - DOMAIN-SUFFIX,nebula-media.org
   # Peach
   - DOMAIN-SUFFIX,embymv.link
+  # 临境
+  - DOMAIN-SUFFIX,liminalnet.com
