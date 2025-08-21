@@ -78,3 +78,6 @@ payload:
 
   # sharon.io
   - DOMAIN-SUFFIX,sharon.io
+
+  # cnfaster.com
+  - DOMAIN-SUFFIX,cnfaster.com
