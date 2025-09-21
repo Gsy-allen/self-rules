@@ -76,8 +76,5 @@ payload:
   # gorelay.net
   - DOMAIN-SUFFIX,gorelay.net
 
-  # sharon.io
-  - DOMAIN-SUFFIX,sharon.io
-
   # cnfaster.com
   - DOMAIN-SUFFIX,cnfaster.com
