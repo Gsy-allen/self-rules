@@ -34,3 +34,5 @@ payload:
   - DOMAIN-SUFFIX,embymv.link
   # 临境
   - DOMAIN-SUFFIX,liminalnet.com
+  # mefun 未响
+  - DOMAIN-SUFFIX,mefun.org

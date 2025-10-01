@@ -6,8 +6,7 @@ payload:
   - DOMAIN-SUFFIX,loseremby.org
   # 翠鸟
   - DOMAIN-SUFFIX,lyrebirdemby.com
-  # mefun 未响
-  - DOMAIN-SUFFIX,mefun.org
+
   # zox
   - DOMAIN-SUFFIX,zox.show
   # hxd
