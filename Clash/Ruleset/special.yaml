@@ -1,27 +1,7 @@
 payload:
-  # midjourney出图
-  - DOMAIN-SUFFIX,innk.cc
-  - DOMAIN-SUFFIX,wsrv.nl
-  - DOMAIN-SUFFIX,fonedis.cc
-
-  # youware
-  - DOMAIN-SUFFIX,yourware.so
-  - DOMAIN-SUFFIX,yourware.app
-
-  # midjourney 参考图
-  - DOMAIN-SUFFIX,u14.app
 
   # cherry 更新
   - DOMAIN-SUFFIX,ocool.online
-
-  # akash api
-  - DOMAIN-SUFFIX,akash.network
-
-  # 飞天拉面
-  - DOMAIN-SUFFIX,fsm.name
-
-  # 冰淇淋
-  - DOMAIN-SUFFIX,icc2022.com
 
   # 青蛙
   - DOMAIN-SUFFIX,qingwapt.com
@@ -32,15 +12,9 @@ payload:
   # ssd
   - DOMAIN-SUFFIX,springsunday.net
 
-  # 红叶
-  - DOMAIN-SUFFIX,leaves.red
-
   # pinterest
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pinimg.com
-
-  # opaoai
-  - DOMAIN-SUFFIX,opaoai.com
 
   # sunny
   - DOMAIN-SUFFIX,sunnypt.top
@@ -74,3 +48,6 @@ payload:
 
   # cnfaster.com
   - DOMAIN-SUFFIX,cnfaster.com
+
+  # nodeseek
+  - DOMAIN-SUFFIX,nodeseek.com

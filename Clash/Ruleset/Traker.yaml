@@ -1,11 +1,5 @@
 payload:
 
-  # 拉面
-  - DOMAIN,fsm-us.eu.org
-  - DOMAIN,creditracker.net
-  - DOMAIN,nextpt.net
-  - DOMAIN,connects.icu
-
   # 莫妮卡
   - DOMAIN,daisuki.monikadesign.uk
   - DOMAIN,anime-no-index.com
@@ -16,15 +10,6 @@ payload:
 
   # 铂金家
   - DOMAIN,pthome.net
-
-  # 冰淇淋
-  - DOMAIN,tracker.icc2022.xyz
-  - DOMAIN,tracker1.czhch.com
-  - DOMAIN,tracker2.czhch.com
-  - DOMAIN,tracker3.czhch.com
-  - DOMAIN,tracker1.icc2022.de
-  - DOMAIN,tracker2.icc2022.de
-  - DOMAIN,tracker3.icc2022.de
 
   # 馒头
   - DOMAIN,tracker.m-team.io
@@ -47,11 +32,6 @@ payload:
 
   # ssd
   - DOMAIN,on.springsunday.net
-
-  # 红叶
-  - DOMAIN,tracker.leaves.red
-  - DOMAIN,tracker2.leaves.red
-  - DOMAIN,tracker3.leaves.red
 
   # chd
   - DOMAIN-SUFFIX,ptchdbits.co
