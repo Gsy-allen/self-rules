@@ -22,8 +22,3 @@ payload:
 
   # sharon.io
   - DOMAIN-SUFFIX,sharon.io
-
-  # oracle
-  - DOMAIN-SUFFIX,oracleinfinity.io
-  - DOMAIN-SUFFIX,oracle.com
-  - DOMAIN-SUFFIX,oraclecloud.com
