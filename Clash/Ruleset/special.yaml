@@ -51,6 +51,7 @@ payload:
 
   # nodeseek
   - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,deepflood.com
 
   # nexttrace
   - DOMAIN-SUFFIX,nxtrace.org
