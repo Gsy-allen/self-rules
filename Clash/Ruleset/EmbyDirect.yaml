@@ -4,8 +4,6 @@ payload:
   - DOMAIN-SUFFIX,embymv.top
   # 垃圾
   - DOMAIN-SUFFIX,loseremby.org
-  # 翠鸟
-  - DOMAIN-SUFFIX,lyrebirdemby.com
 
   # zox
   - DOMAIN-SUFFIX,zox.show
