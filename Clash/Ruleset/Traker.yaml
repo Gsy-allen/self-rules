@@ -13,8 +13,6 @@ payload:
 
   # 馒头
   - DOMAIN,tracker.m-team.io
-  - DOMAIN,v6tracker.m-team.io
-  - DOMAIN,ipv6-tracker.m-team.cc
   - DOMAIN,tracker.m-team.cc
 
   # 听听歌
