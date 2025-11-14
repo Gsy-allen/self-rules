@@ -1,17 +1,12 @@
 # Emby Proxy
 # 需要走代理的Emby服务器
 
-#porn
-DOMAIN-SUFFIX,pornemby.com
 # polo
 DOMAIN-SUFFIX,poloemby.xyz
 # 卷毛鼠
 DOMAIN-SUFFIX,jmsuper.com
-# 叔服
-DOMAIN-SUFFIX,mcjoker.xyz
 # Paul
 DOMAIN-SUFFIX,imetyou.top
-
 # 纸片人
 DOMAIN-SUFFIX,embyplus.org
 # 终点站
@@ -20,14 +15,11 @@ DOMAIN-SUFFIX,term.wtf
 # pilipili
 DOMAIN-SUFFIX,pilipiliultra.com
 # 垃圾
+DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,xxlb.net
 # CC
 DOMAIN-SUFFIX,carryz.net
-# 垃圾
-DOMAIN-SUFFIX,emby.moe
-# GUGU
-DOMAIN-SUFFIX,gugumedia.org
 # jingzhe
 DOMAIN-SUFFIX,jingzhe.pro
 # nebula
@@ -40,3 +32,5 @@ DOMAIN-SUFFIX,mefun.org
 DOMAIN-SUFFIX,cn2gias.uk
 # Youno
 DOMAIN-SUFFIX,younoyes.com
+# hxd
+DOMAIN-SUFFIX,as174.de

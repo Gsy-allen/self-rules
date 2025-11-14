@@ -1,12 +1,8 @@
 payload:
-  # porn
-  - DOMAIN-SUFFIX,pornemby.com
   # polo
   - DOMAIN-SUFFIX,poloemby.xyz
   # 卷毛鼠
   - DOMAIN-SUFFIX,jmsuper.com
-  # 叔服
-  - DOMAIN-SUFFIX,mcjoker.xyz
   # Paul
   - DOMAIN-SUFFIX,imetyou.top
   # 纸片人
@@ -18,14 +14,10 @@ payload:
   - DOMAIN-SUFFIX,pilipiliultra.com
   # 垃圾
   - DOMAIN-SUFFIX,xmsl.org
-  - DOMAIN-SUFFIX,gtlx.org
-  # CC
-  - DOMAIN-SUFFIX,carryz.net
-  # 垃圾
   - DOMAIN-SUFFIX,emby.moe
   - DOMAIN-SUFFIX,xxlb.net
-  # GUGU
-  - DOMAIN-SUFFIX,gugumedia.org
+  # CC
+  - DOMAIN-SUFFIX,carryz.net
   # jingzhe
   - DOMAIN-SUFFIX,jingzhe.pro
   # nebula
@@ -40,3 +32,5 @@ payload:
   - DOMAIN-SUFFIX,cn2gias.uk
   # Youno
   - DOMAIN-SUFFIX,younoyes.com
+  # hxd
+  - DOMAIN-SUFFIX,as174.de
