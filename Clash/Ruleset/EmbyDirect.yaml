@@ -13,3 +13,6 @@ payload:
 
   # lily
   - DOMAIN-SUFFIX,lilyemby.my
+
+  # long
+  - DOMAIN-SUFFIX,longemby.com
