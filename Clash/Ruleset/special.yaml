@@ -37,9 +37,6 @@ payload:
   # evoxt.com
   - DOMAIN-SUFFIX,evoxt.com
 
-  # hostdzire.com
-  - DOMAIN-SUFFIX,hostdzire.com
-
   # nohavps.com
   - DOMAIN-SUFFIX,nohavps.com
 
