@@ -25,9 +25,6 @@ payload:
   # cloudflarestorage
   - DOMAIN-SUFFIX,cloudflarestorage.com
 
-  # lyrebird 机场
-  - DOMAIN-SUFFIX,lyrebird.cloud
-
   # catsapi
   - DOMAIN-SUFFIX,catsapi.com
 
@@ -36,9 +33,6 @@ payload:
 
   # evoxt.com
   - DOMAIN-SUFFIX,evoxt.com
-
-  # nohavps.com
-  - DOMAIN-SUFFIX,nohavps.com
 
   # gorelay.net
   - DOMAIN-SUFFIX,gorelay.net
@@ -53,3 +47,6 @@ payload:
 
   # nexttrace
   - DOMAIN-SUFFIX,nxtrace.org
+
+  # idcflare
+  - DOMAIN-SUFFIX,idcflare.com
