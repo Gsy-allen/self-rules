@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,as174.de
 
   # lily
-  - DOMAIN-SUFFIX,lilyemby.my
+  - DOMAIN-SUFFIX,lilyemby.com
 
   # long
   - DOMAIN-SUFFIX,longemby.com
