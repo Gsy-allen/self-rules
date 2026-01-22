@@ -45,3 +45,6 @@ payload:
 
   # idcflare
   - DOMAIN-SUFFIX,idcflare.com
+
+  # flowith.net
+  - DOMAIN-SUFFIX,flowith.net
