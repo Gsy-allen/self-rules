@@ -48,3 +48,4 @@ payload:
 
   # flowith.net
   - DOMAIN-SUFFIX,flowith.net
+  - DOMAIN-SUFFIX,flowith.io
