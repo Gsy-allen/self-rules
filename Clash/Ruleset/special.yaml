@@ -52,3 +52,6 @@ payload:
 
   # uhd emby
   - DOMAIN-SUFFIX,uhdnow.com
+
+  # yang iptv
+  - DOMAIN-SUFFIX,iill.top
