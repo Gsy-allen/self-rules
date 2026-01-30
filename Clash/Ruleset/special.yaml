@@ -40,6 +40,7 @@ payload:
 
   # yang iptv
   - DOMAIN-SUFFIX,iill.top
+  - DOMAIN-SUFFIX,stream-link.org
 
   # apple intelligence
   - DOMAIN-SUFFIX,apple-relay.apple.com
