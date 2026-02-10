@@ -35,9 +35,6 @@ payload:
   - DOMAIN-SUFFIX,flowith.net
   - DOMAIN-SUFFIX,flowith.io
 
-  # uhd emby
-  - DOMAIN-SUFFIX,uhdnow.com
-
   # yang iptv
   - DOMAIN-SUFFIX,iill.top
   - DOMAIN-SUFFIX,stream-link.org
