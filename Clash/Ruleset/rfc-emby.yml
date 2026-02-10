@@ -1,4 +1,4 @@
 payload:
 
   # uhd emby
-  - DOMAIN,rfc.uhdnow.com
+  - DOMAIN-SUFFIX,uhdnow.com
