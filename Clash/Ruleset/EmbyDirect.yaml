@@ -17,3 +17,6 @@ payload:
   # long
   - DOMAIN-SUFFIX,longemby.com
   - DOMAIN-SUFFIX,longemby.top
+
+  # 墨云阁
+  - DOMAIN-SUFFIX,mobaiemby.site
