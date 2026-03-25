@@ -3,13 +3,8 @@ payload:
   - DOMAIN-SUFFIX,poloemby.xyz
   # 卷毛鼠
   - DOMAIN-SUFFIX,jmsuper.com
-  # Paul
-  - DOMAIN-SUFFIX,imetyou.top
   # 纸片人
   - DOMAIN-SUFFIX,embyplus.org
-  # 终点站
-  - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,term.wtf
   # pilipili
   - DOMAIN-SUFFIX,pilipiliultra.com
   # 垃圾
@@ -33,6 +28,7 @@ payload:
   # Youno
   - DOMAIN-SUFFIX,younoyes.com
   # hxd
+  - DOMAIN-SUFFIX,bili.rip
   - DOMAIN-SUFFIX,as174.de
   # 墨云阁
   - DOMAIN-SUFFIX,mobaiemby.site
