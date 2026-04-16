@@ -30,3 +30,5 @@ payload:
   # hxd
   - DOMAIN-SUFFIX,bili.rip
   - DOMAIN-SUFFIX,as174.de
+  # 终点站
+  - DOMAIN-SUFFIX,emby.wtf

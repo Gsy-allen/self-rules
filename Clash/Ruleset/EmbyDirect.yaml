@@ -4,8 +4,6 @@ payload:
   - DOMAIN-SUFFIX,embymv.top
   # 垃圾
   - DOMAIN-SUFFIX,loseremby.org
-  # 终点站
-  - DOMAIN-SUFFIX,emby.wtf
 
   # lily
   - DOMAIN-SUFFIX,lilyemby.com
