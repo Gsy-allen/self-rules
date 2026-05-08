@@ -6,7 +6,7 @@ payload:
 
   # 憨憨
   - DOMAIN,tracker.hhan.club
-  - DOMAIN,hhanclub.top
+  - DOMAIN,hhanclub.net
 
   # 铂金家
   - DOMAIN,pthome.net
@@ -22,14 +22,14 @@ payload:
   - DOMAIN-SUFFIX,open.cd
 
   # 观众
-  - DOMAIN,t.audiences.me
-  - DOMAIN,tracker.cinefiles.info
+  - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN-SUFFIX,cinefiles.info
 
   # sunny
   - DOMAIN-SUFFIX,sunnytk.top
 
   # ssd
-  - DOMAIN,on.springsunday.net
+  - DOMAIN-SUFFIX,springsunday.net
 
   # chd
   - DOMAIN-SUFFIX,ptchdbits.co
@@ -37,4 +37,4 @@ payload:
   - DOMAIN-SUFFIX,chdbits.xyz
 
   # pterclub
-  - DOMAIN,tracker.pterclub.com
+  - DOMAIN-SUFFIX,pterclub.com
