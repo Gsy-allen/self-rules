@@ -3,24 +3,9 @@ payload:
   # cherry 更新
   - DOMAIN-SUFFIX,ocool.online
 
-  # 青蛙
-  - DOMAIN-SUFFIX,qingwapt.com
-
-  # 观众
-  - DOMAIN-SUFFIX,audiences.me
-
-  # ssd
-  - DOMAIN-SUFFIX,springsunday.net
-
   # pinterest
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pinimg.com
-
-  # sunny
-  - DOMAIN-SUFFIX,sunnypt.top
-
-  # pterclub
-  - DOMAIN-SUFFIX,pterclub.com
 
   # cloudflarestorage
   - DOMAIN-SUFFIX,cloudflarestorage.com
@@ -30,10 +15,6 @@ payload:
 
   # idcflare
   - DOMAIN-SUFFIX,idcflare.com
-
-  # flowith.net
-  - DOMAIN-SUFFIX,flowith.net
-  - DOMAIN-SUFFIX,flowith.io
 
   # yang iptv
   - DOMAIN-SUFFIX,iill.top
@@ -48,3 +29,7 @@ payload:
   - DOMAIN-SUFFIX,cp4.cloudflare.com
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
   - DOMAIN-SUFFIX,apps.mzstatic.com
+
+  # nodeseek
+  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,nodequality.com
