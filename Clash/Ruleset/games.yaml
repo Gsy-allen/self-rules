@@ -15,6 +15,8 @@ payload:
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
 
+  - DOMAIN-SUFFIX,eccdnx.com
+
   # klei
   - DOMAIN-SUFFIX,kleientertainment.com
   - DOMAIN-SUFFIX,klei.com
