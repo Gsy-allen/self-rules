@@ -29,7 +29,3 @@ payload:
   - DOMAIN-SUFFIX,cp4.cloudflare.com
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
   - DOMAIN-SUFFIX,apps.mzstatic.com
-
-  # nodeseek
-  - DOMAIN-SUFFIX,nodeseek.com
-  - DOMAIN-SUFFIX,nodequality.com
