@@ -34,3 +34,6 @@ payload:
 
   # 17.live
   - DOMAIN-SUFFIX,17.live
+
+  # Gary iptv
+  - DOMAIN-SUFFIX,sharewithyou.dpdns.org
