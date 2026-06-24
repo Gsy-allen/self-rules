@@ -10,5 +10,13 @@ payload:
   - DOMAIN-SUFFIX,vgcdn.net
   - DOMAIN-SUFFIX,sofast.tv
   - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,ofiii.com
+  - IP-CIDR,123.51.231.132/32
+  - IP-CIDR,60.250.121.103/32
+  - IP-CIDR,50.7.158.194/32
+  - DOMAIN-SUFFIX,ggff.net
+  - DOMAIN-SUFFIX,newtvsuper.com
+  - DOMAIN-SUFFIX,dpdns.org
 
   - DOMAIN-SUFFIX,live.com
