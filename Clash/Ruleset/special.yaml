@@ -37,3 +37,7 @@ payload:
 
   # Gary iptv
   - DOMAIN-SUFFIX,sharewithyou.dpdns.org
+
+  #mail
+  - DOMAIN,mail.tshtxyd.uk
+  - DOMAIN,mail.tshtxwd.uk
