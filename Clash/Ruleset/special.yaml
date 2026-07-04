@@ -39,6 +39,9 @@ payload:
   - DOMAIN-SUFFIX,sharewithyou.dpdns.org
 
   #mail
+  - DOMAIN-SUFFIX,workspace.org
   - DOMAIN,mail.tshtxyd.uk
   - DOMAIN,mail.tshtxwd.uk
   - DOMAIN,mail.altong.org
+  - DOMAIN,mail.tonnao.com
+  - DOMAIN,mail.tonnap.com
