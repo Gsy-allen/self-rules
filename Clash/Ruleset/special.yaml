@@ -40,6 +40,7 @@ payload:
 
   # mail
   - DOMAIN-SUFFIX,workspace.org
+  - DOMAIN-SUFFIX,gmail.com
   - DOMAIN,mail.tshtxyd.uk
   - DOMAIN,mail.tshtxwd.uk
   - DOMAIN,mail.altong.org
