@@ -52,3 +52,6 @@ payload:
 
   # lazycat
   - DOMAIN-SUFFIX,lazycat.wiki
+
+  # don
+  - DOMAIN,ag.tonnap.com
