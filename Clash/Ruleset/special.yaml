@@ -1,17 +1,7 @@
 payload:
 
-  # cherry 更新
-  - DOMAIN-SUFFIX,ocool.online
-
-  # pinterest
-  - DOMAIN-SUFFIX,pinterest.com
-  - DOMAIN-SUFFIX,pinimg.com
-
   # cloudflarestorage
   - DOMAIN-SUFFIX,cloudflarestorage.com
-
-  # nexttrace
-  - DOMAIN-SUFFIX,nxtrace.org
 
   # idcflare
   - DOMAIN-SUFFIX,idcflare.com
@@ -53,5 +43,4 @@ payload:
   # lazycat
   - DOMAIN-SUFFIX,lazycat.wiki
 
-  # don
-  - DOMAIN,ag.tonnap.com
+  - DOMAIN-SUFFIX,tonnap.com
