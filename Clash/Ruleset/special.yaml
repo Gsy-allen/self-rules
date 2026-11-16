@@ -44,3 +44,6 @@ payload:
   - DOMAIN-SUFFIX,lazycat.wiki
 
   - DOMAIN-SUFFIX,tonnap.com
+
+  # 猫站
+  - DOMAIN-SUFFIX,sukaka.top
