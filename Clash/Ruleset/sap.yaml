@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,services.sap
   - DOMAIN-SUFFIX,corp.sap
+  - DOMAIN-SUFFIX,only.sap
