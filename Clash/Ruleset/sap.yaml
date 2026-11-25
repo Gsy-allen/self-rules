@@ -1,0 +1,9 @@
+payload:
+
+  - DOMAIN-SUFFIX,cloud.sap
+  - DOMAIN-SUFFIX,sap.com
+  - DOMAIN-SUFFIX,sap.corp
+  - DOMAIN-SUFFIX,hana.ondemand.com
+  - DOMAIN-SUFFIX,tools.sap
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,services.sap
