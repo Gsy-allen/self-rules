@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,services.sap
   - DOMAIN-SUFFIX,corp.sap
   - DOMAIN-SUFFIX,only.sap
+  - DOMAIN-SUFFIX,net.sap
